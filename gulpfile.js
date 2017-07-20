@@ -1,7 +1,8 @@
 var gulp = require("gulp"),
     sass = require("gulp-sass"),
     browserSync = require("browser-sync"),
-    gulpCopy = require("gulp-copy");
+    gulpCopy = require("gulp-copy")
+    notify = require("gulp-notify");
 
 // for development, use de default task
 gulp.task('default', ["html", "sass"], function() {
