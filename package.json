@@ -1,0 +1,38 @@
+{
+  "name": "regrid",
+  "version": "0.1.0",
+  "description": "Using a ready-to-use framework ready to manage the style of your web is (usually) fast and easy, but not every project needs the full features, nor big files to import.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-sass": "^3.1.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-copy": "^1.0.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonybolanyo/regrid.git"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "grid system",
+    "responsive design",
+    "css",
+    "grid"
+  ],
+  "author": "Tony G. Bolaño <tonybolanyo@gmail.com> (https://tonygb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonybolanyo/regrid/issues"
+  },
+  "homepage": "https://github.com/tonybolanyo/regrid"
+}
